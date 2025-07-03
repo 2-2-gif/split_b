@@ -1,4 +1,4 @@
-# [Split](https://libraries.io/rubygems/split)
+# [Split b](https://libraries.io/rubygems/split)
 
 [![Gem Version](https://badge.fury.io/rb/split.svg)](http://badge.fury.io/rb/split)
 ![Build status](https://github.com/splitrb/split/actions/workflows/ci.yml/badge.svg?branch=main)
